@@ -5,8 +5,6 @@ using JWTAuth.ProductAPI.Tests.Helpers;
 using Microsoft.Extensions.Logging;
 using Moq;
 using NUnit.Framework;
-using ProductWebAPI.Controllers;
-using System.Threading.Tasks;
 
 namespace JWTAuth.ProductAPI.Tests
 {

@@ -21,8 +21,4 @@
     <ProjectReference Include="..\JWTAuth.ProductAPI\JWTAuth.ProductAPI.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
